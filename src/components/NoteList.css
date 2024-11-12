@@ -1,0 +1,13 @@
+.note-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .note {
+    padding: 15px;
+    border-radius: 8px;
+    color: #333;
+    min-height: 50px;
+    word-break: break-word;
+  }

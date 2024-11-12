@@ -1,0 +1,14 @@
+.notes-app {
+    width: 100%;
+    max-width: 800px;
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .notes-app h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+  }

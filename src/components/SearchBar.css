@@ -1,0 +1,13 @@
+.search-bar {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    font-size: 14px;
+  }
+  
+  .search-bar:focus {
+    outline: none;
+    border-color: #4CAF50;
+  }
